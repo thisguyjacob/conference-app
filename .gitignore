@@ -31,5 +31,6 @@ $RECYCLE.BIN/
 # Husky
 .husky
 
-# vscode extensions
+# vscode extensions and other
 .history/
+.env
